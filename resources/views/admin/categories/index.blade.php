@@ -38,7 +38,7 @@
                                     <thead>
                                         <tr>
                                             <th>Kategori Adı</th>
-                                            <th>Makale Sayısı</th>
+                                            <th>Toplam Makale Sayısı</th>
                                             <th>İşlemler</th>
                                         </tr>
                                     </thead>
